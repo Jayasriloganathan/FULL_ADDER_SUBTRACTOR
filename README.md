@@ -81,6 +81,9 @@ assign df-w1^bin;
 assign bo-w2/w3;
 endmodule
 ```
+/* Devoloped by:Jayasri L
+   Register number:24900407
+*/
 **RTL Schematic**
 FULL ADDER
 ![Screenshot 2024-12-14 115638](https://github.com/user-attachments/assets/5f9a0890-b883-4040-a1b5-f216c14d30e0)
